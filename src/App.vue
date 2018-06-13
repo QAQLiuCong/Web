@@ -19,6 +19,10 @@ export default {
     components: {
         HelloWorld
     },
+    mounted(){
+        let a=10;
+        console.log(a);
+    }
 }
 </script>
 
