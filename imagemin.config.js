@@ -1,3 +1,3 @@
 module.exports = {
-    "quality": 50
+    "quality": 75
 };
