@@ -8,8 +8,8 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue';
-import './assets/scss/common.scss';
+import HelloWorld from './components/HelloWorld';
+import './assets/scss/common';
 export default {
     data () {
         return {
